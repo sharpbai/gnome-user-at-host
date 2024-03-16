@@ -3,6 +3,8 @@
   "name": "Add user@host to top panel",
   "url": "https://github.com/sharpbai/gnome-user-at-host",
   "shell-version": [
+    "3.36",
+    "3.38",
     "40",
     "41",
     "42",
