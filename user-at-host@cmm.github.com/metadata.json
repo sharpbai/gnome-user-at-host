@@ -1,17 +1,16 @@
 {
   "description": "Adds user@host to the top panel, on the left.\n\nNothing fancy, no support -- fork at will, the thing is very simple.",
   "name": "Add user@host to top panel",
-  "url": "https://github.com/cmm/gnome-user-at-host",
+  "url": "https://github.com/sharpbai/gnome-user-at-host",
   "shell-version": [
-    "3.36",
-    "3.38",
     "40",
     "41",
     "42",
     "43",
-    "44"
+    "44",
+    "45"
   ],
-  "uuid": "user-at-host@cmm.github.com",
+  "uuid": "user-at-host@sharpbai.github.com",
   "version": "1",
   "original-author": "dandaman96"
 }
